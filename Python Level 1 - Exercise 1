@@ -1,0 +1,14 @@
+Python Level 1 Exercise 1
+
+Make a star with each line in a different color. 
+
+Tip:
+Did you know that you can draw a star without lifting your pen up? 
+It takes 2 steps, repeated 5 times. 
+ - draw a straight line
+ - turn 144 deg angle 
+
+Lessons to apply: 
+- use of turtle command to draw a line, and turn an angle
+- for loop
+- use of array variable in a for loop
