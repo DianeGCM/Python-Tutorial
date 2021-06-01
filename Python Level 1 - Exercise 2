@@ -1,0 +1,12 @@
+Python Level 1 Exercise 2
+
+Draw a star anywhere you click on the screen
+
+Tip:  Make a python function to draw a star. 
+The function is called when you click the mouse.
+       
+
+Lessons to Apply
+- create a python function
+- use onscreenclick to pass turtle coordinates to our python function
+- listen function to check for mouse clicks
