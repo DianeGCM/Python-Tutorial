@@ -1,0 +1,47 @@
+Lesson 1 
+	- Introduction to  Python, Replit (Python syntax, indentation)
+	- Introduction to Turtle, explanation on turtle pen, and screen, coordinates, angles
+		○ Exercise 1.1 -drawing lines and angles & demo of indentation errors
+		○ Exercise 1.2 -  making a square, rectangles
+	- Colors
+		○ Exercise 1.3 - drawing shapes in different colors
+
+Lesson 2
+	- Turtlestamp, turtleshape functions
+		○ Exercise 2.1 Drawing, erasing using turtle stamp
+		○ Exercise 2.2 Modifying turtle stamp
+
+Lesson 3 
+	- variables, lists, for loops
+		○ Exercise 3.1  drawing shapes in different colors using lists, and for loop
+		○ Exercise 3.2  drawing dashed lines
+		○ Exercise 3.3  drawing spirals
+	
+Lesson 4
+	- Python Operators (addition, subtraction, etc)
+		○ Exercise 4.1 - drawing shapes at equal distances 
+		○ Exercise 4.2  - drawing shapes  that using math formulas
+	
+Lesson 5
+	-  Python functions
+		○ Exercise 5.1 -  drawing shapes using a function
+		○ Exercise 5.2 -  drawing shapes of variable size
+
+Lesson 6
+	- Turtle onscreenclick, onkey, listen functions, passing values to a function
+		○ Exercise 5.1  -  drawing shapes by clicking anywhere on the screen 
+		○ Exercise 5.2 -  changing pen color when key is pressed
+
+Lesson 7
+	- If, Elif, and Else
+		○ Exercise 7.1  Changing pen color depending on which key is pressed
+	
+
+
+Lesson 8
+
+Lesson 9
+
+Lesson 10
+	
+
